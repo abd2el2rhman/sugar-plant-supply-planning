@@ -1,0 +1,9 @@
+SKU,Annual volume (units),Unit price (EGP),Annual value,Rank,Cumulative % of value,"Class (A<=80%, B<=95%, C)"
+White sugar 1 kg,5200,14.5,75400,3,96.2718342091703%,C
+White sugar 5 kg,900,68,61200,4,98.8252866897117%,C
+Brown sugar 1 kg,640,19,12160,5,99.3326393394402%,C
+Sugar cubes 500 g,420,12,5040,7,99.8798375303275%,C
+Bulk sugar 50 kg,3100,640,1984000,1,82.7785902188584%,B
+Liquid sugar (tank),800,310,248000,2,93.1259139962157%,B
+Icing sugar 400 g,180,16,2880,8,100%,C
+Sachets box (1000),95,85,8075,6,99.6695532084005%,C

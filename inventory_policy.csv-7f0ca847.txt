@@ -1,0 +1,12 @@
+Item,Value,Formula idea
+Average weekly demand (52 wks),111.759615384615,AVERAGE
+Std deviation of weekly demand,17.4361047504532,STDEV
+z value for service level,1.64485362695147,NORMSINV
+Safety stock (tonnes),100.465262854058,z*SQRT(LT*sd^2 + d^2*sdLT^2)
+Reorder point (tonnes),323.984493623289,demand*LT + safety stock
+Annual demand (tonnes),5811.5,weekly avg x 52
+Holding cost per tonne per year (EGP),2800,rate x unit cost
+EOQ (tonnes),111.59397065126,SQRT(2DS/H)
+Orders per year,52.0771863039214,D / EOQ
+Inventory position now (tonnes),280,on hand + 100 t already on order
+Order now?,"YES, below reorder point",compare position to ROP

@@ -1,0 +1,9 @@
+KPI,Value,Definition
+"Fill rate, weeks 41-52",96.6115626997899%,shipped / demanded
+"Weeks with shortfall (shipped < demand), 41-52",5,count
+Forecast accuracy (best method),91.7311959302737%,1 - MAPE
+Days of cover now,11.2741977114342,on hand / avg weekly demand x 7
+Inventory value (EGP),2520000,on hand x unit cost
+,,
+,,
+"Task: write a 4-line summary for your manager (what is working, the main risk, one action).",,

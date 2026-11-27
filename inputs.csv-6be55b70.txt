@@ -1,0 +1,12 @@
+Parameter,Value,Unit / note
+Smoothing factor alpha,0.3,exponential smoothing
+Moving average window,4,weeks
+Replenishment lead time,2,weeks
+Lead time std deviation,0.5,weeks
+Target service level,0.95,cycle service level
+On-hand inventory (end of week 52),180,tonnes
+Weekly packing capacity,150,tonnes per week
+Unit cost,14000,EGP per tonne
+Holding cost rate,0.2,"per year, share of unit cost"
+Order / changeover cost,3000,EGP per order
+Max cover before 'excess',3,weeks of forecast demand
