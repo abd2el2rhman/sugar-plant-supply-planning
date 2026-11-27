@@ -27,13 +27,13 @@ A self-study supply planning case built in Excel for a sugar refinery that packs
 
 ```
 data/       input data (weekly demand, parameters)
-excel/      the Excel workbook with the task sheets and formulas
+(root)      the Sugar_Planning_Practice Excel workbook with the task sheets and formulas
 results/    exported results as CSV
 ```
 
 ## How to use
 
-1. Open `excel/Sugar_Planning_Practice.xlsx`.
+1. Open the Sugar_Planning_Practice workbook (.xlsx) in the repository root.
 2. Do the tasks on sheets `1_Forecast` to `5_ABC` using formulas.
 3. Compare with the `Key_` sheets.
 
